@@ -1,0 +1,5 @@
+class Start               class AddRemove                class List            class Statistic
+stworzene
+instancji List                                          lista rzeczy
+usuwanie kliknietego el.  remove()                                              Liczba zadañ
+                          dodanie()
